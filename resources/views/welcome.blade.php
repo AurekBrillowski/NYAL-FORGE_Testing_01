@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    FORGE: NYAL - Testing
+                    FORGE: NYAL - Development
                 </div>
 
                 <div class="links">
