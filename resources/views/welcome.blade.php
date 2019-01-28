@@ -45,8 +45,7 @@
             }
 
             .title {
-                /* font-size: 84px; */
-                font-size: 72px;
+                font-size: 84px;
             }
 
             .links > a {
@@ -82,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    NYAL - Testing on Forge AWS
+                    FORGE: NYAL - Testing
                 </div>
 
                 <div class="links">
